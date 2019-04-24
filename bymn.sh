@@ -31,9 +31,6 @@
 export PATH=${PWD}/../bin:${PWD}:$PATH
 export FABRIC_CFG_PATH=${PWD}
 export VERBOSE=false
-export ORDERER_HOSTNAME="node1"
-export ORG1_HOSTNAME="node2"
-export ORG2_HOSTNAME="node3"
 export SWARM_NETWORK="fabric"
 export DOCKER_STACK="fabric"
 
